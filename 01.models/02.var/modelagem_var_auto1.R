@@ -1,7 +1,7 @@
 # lucas
 # diretório + funções ----------------------------------------------
 setwd("C:/Users/daiane.mattos/Dropbox/08 Previsão da PIM-PF")
-
+izabel <- lucas
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(vars, urca, tseries, forecast, readxl, xtable, seasonal, BETS, dygraphs, lubridate)
 
