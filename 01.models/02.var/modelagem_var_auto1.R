@@ -1,3 +1,4 @@
+# lucas
 # diretório + funções ----------------------------------------------
 setwd("C:/Users/daiane.mattos/Dropbox/08 Previsão da PIM-PF")
 
